@@ -28,7 +28,7 @@ List is currently based on reviews of device testers and emulators.
 
 | App Name | Short Description | Notes |
 |----------|-------------------|-------|
-| [App Name 1](https://example.com/app1) | Brief description of the app's purpose and key features, considering Q25 limitations. | Notes on specific limitations or workarounds for Q25 compatibility. |
+| [Pixel Play](https://github.com/theovilardo/PixelPlay) | Music Player | Not Optimised for Resolution, Works but needs Scrolling |
 <!--| [App Name 2](https://example.com/app2) | Brief description of the app's purpose and key features, considering Q25 limitations. | Notes on specific limitations or workarounds for Q25 compatibility. |
 | [App Name 3](https://example.com/app3) | Brief description of the app's purpose and key features, considering Q25 limitations. | Notes on specific limitations or workarounds for Q25 compatibility. |
 | [App Name 4](https://example.com/app4) | Brief description of the app's purpose and key features, considering Q25 limitations. | Notes on specific limitations or workarounds for Q25 compatibility. |
