@@ -1,6 +1,6 @@
 # Q25-Apps
 A curated list of apps confirmed working with / built for Zinwa Q25
-
+List is currently based on reviews of device testers and emulators.
 
 ## Apps Built for Q25
 ### There are currently no known Apps
@@ -15,14 +15,15 @@ A curated list of apps confirmed working with / built for Zinwa Q25
 -->
 ## Apps Working with Q25
 
-| App Name | Short Description | Notes |
+| App Name | Cetegory | Notes |
 |----------|-------------------|-------|
-| [App Name 1](https://example.com/app1) | Brief description of the app's purpose and functionality on Q25. | Notes on general compatibility or usage with Q25. |
-| [App Name 2](https://example.com/app2) | Brief description of the app's purpose and functionality on Q25. | Notes on general compatibility or usage with Q25. |
+| [Apple Music](https://play.google.com/store/apps/details/Apple_Music?id=com.apple.android.music&hl=gsw) | Music Provider | Works fine, Player looks nice |
+| [Youtube Music](https://play.google.com/store/apps/details?id=com.google.android.apps.youtube.music&hl=gsw) | Music Provider | Works fine, Player looks nice |
+<!--
 | [App Name 3](https://example.com/app3) | Brief description of the app's purpose and functionality on Q25. | Notes on general compatibility or usage with Q25. |
 | [App Name 4](https://example.com/app4) | Brief description of the app's purpose and functionality on Q25. | Notes on general compatibility or usage with Q25. |
 | [App Name 5](https://example.com/app5) | Brief description of the app's purpose and functionality on Q25. | Notes on general compatibility or usage with Q25. |
-
+-->
 ## Apps Working with Limitations
 
 | App Name | Short Description | Notes |
