@@ -12,7 +12,7 @@ However, the primary issue is likely to be the aspect ratio, which may cause som
 | App Name | Short Description | Author |
 |----------|-------------------|-------|
 | [Q25 Resolution Changer](https://github.com/mybabysexy/q25-res-changer) | Software for emulating resolutions on the Q25 | mybabysexy |
--->
+
 <!--
 ## Apps specifically tested to work with Q25
 
