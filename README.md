@@ -6,6 +6,8 @@ If you find an app that doesn’t work as expected, please let me know.
 As the Zinwa Q25 is an Android-based device, most apps should function well. 
 However, the primary issue is likely to be the aspect ratio, which may cause some app elements to display incorrectly or appear distorted.
 
+Consider joining the Q25 [Discord Server](https://discord.com/invite/D2P7UqFdXz)
+
 ## Apps Built for Q25
 
 
