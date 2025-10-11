@@ -7,11 +7,11 @@ As the Zinwa Q25 is an Android-based device, most apps should function well.
 However, the primary issue is likely to be the aspect ratio, which may cause some app elements to display incorrectly or appear distorted.
 
 ## Apps Built for Q25
-### There are currently no known Apps
-<!--
-| App Name | Short Description | Notes |
+
+
+| App Name | Short Description | Author |
 |----------|-------------------|-------|
-| [App Name](https://example.com/app1) | Brief description of the app's purpose, designed specifically for Q25. | Notes on Q25-specific features or optimizations. |
+| [Q25 Resolution Changer](https://github.com/mybabysexy/q25-res-changer) | Software for emulating resolutions on the Q25 | mybabysexy |
 -->
 <!--
 ## Apps specifically tested to work with Q25
