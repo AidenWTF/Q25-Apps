@@ -13,7 +13,7 @@ Consider joining the Q25 [Discord Server](https://discord.com/invite/D2P7UqFdXz)
 
 | App Name | Short Description | Author |
 |----------|-------------------|-------|
-| [Q25 Resolution Changer](https://github.com/mybabysexy/q25-res-changer) | Software for emulating resolutions on the Q25 | mybabysexy |
+| [Q25 Resolution Changer](https://github.com/mybabysexy/q25-res-changer) | Software for emulating resolutions on the Q25 $${\color{red}ROOT\space REQUIRED}$$| mybabysexy |
 
 <!--
 ## Apps specifically tested to work with Q25
@@ -33,7 +33,7 @@ Consider joining the Q25 [Discord Server](https://discord.com/invite/D2P7UqFdXz)
 
 | App Name | Categoty | Notes |
 |----------|-------------------|-------|
-| [Google Wallet / Google Pay](https://play.google.com/store/apps/details?id=com.google.android.apps.walletnfcrel&hl=en) | Wallet | Needs Root / Strong Device Integrity [Guide](https://xdaforums.com/t/guide-how-to-pass-strong-integrity-on-android-step-by-step-guide.4729435/) |
+| [Google Wallet / Google Pay](https://play.google.com/store/apps/details?id=com.google.android.apps.walletnfcrel&hl=en) | Wallet | Strong Device Integrity needed [Guide](https://xdaforums.com/t/guide-how-to-pass-strong-integrity-on-android-step-by-step-guide.4729435/) $${\color{red}ROOT\space REQUIRED}$$|
 | [Pixel Play](https://github.com/theovilardo/PixelPlay) | Music Player | Not Optimised for Resolution, Works but needs Scrolling |
 <!--| [App Name](https://example.com/app2) | Brief description of the app's purpose and key features, considering Q25 limitations. | Notes on specific limitations or workarounds for Q25 compatibility. | -->
 ## Apps Not Working with Q25
