@@ -1,12 +1,25 @@
-# Q25-Apps
+# Q25-Apps and Carriers
 A curated list of apps designed for the Zinwa Q25, plus apps that only partially work or don’t work at all.
 This list is based on device tester reviews and emulator testing.
 If you find an app that doesn’t work as expected, please let me know.
+
+Now Contains Carriers
 
 As the Zinwa Q25 is an Android-based device, most apps should function well. 
 However, the primary issue is likely to be the aspect ratio, which may cause some app elements to display incorrectly or appear distorted.
 
 Consider joining the Q25 [Discord Server](https://discord.com/invite/D2P7UqFdXz)
+
+## Carriers Tested
+#### If your carrier blocks unknown IMEI Numbers you can always change yours with the Tool that Zinwa Provides. (eg. to a BlackBerry Classic IMEI like [those generated here for testing purposes](https://aidenwtf.github.io/BlackBerry-Classic-IMEI-Generator/) )
+
+
+| Name | Country | Notes |
+|----------|-------------------|-------|
+| [T-Mobile](https://www.t-mobile.com/) | USA | $${\color{green}works\space}$$ |
+| [Mobily](https://www.mobily.com.sa) | Saudi Arabia | $${\color{green}works\space}$$ |
+| [STC](https://www.stc.com.sa) | Saudi Arabia | $${\color{green}works\space}$$ |
+| [Salam](https://dxp.salam.sa) | Saudi Arabia | $${\color{green}works\space}$$ |
 
 ## Apps Built for Q25
 
