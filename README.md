@@ -16,17 +16,17 @@ Consider joining the Q25 [Discord Server](https://discord.com/invite/D2P7UqFdXz)
 
 | Name | Country | Notes |
 |----------|-------------------|-------|
-| [T-Mobile](https://www.t-mobile.com/) | USA | $${\color{green}works\space}$$ |
-| [Mobily](https://www.mobily.com.sa) | Saudi Arabia | $${\color{green}works\space}$$ |
-| [STC](https://www.stc.com.sa) | Saudi Arabia | $${\color{green}works\space}$$ |
-| [Salam](https://dxp.salam.sa) | Saudi Arabia | $${\color{green}works\space}$$ |
+| [T-Mobile](https://www.t-mobile.com/) | USA | <p align="center"> <img src="https://img.shields.io/badge/works-88E788" alt="works" /> </p> |
+| [Mobily](https://www.mobily.com.sa) | Saudi Arabia | <p align="center"> <img src="https://img.shields.io/badge/works-88E788" alt="works" /> </p> |
+| [STC](https://www.stc.com.sa) | Saudi Arabia | <p align="center"> <img src="https://img.shields.io/badge/works-88E788" alt="works" /> </p> |
+| [Salam](https://dxp.salam.sa) | Saudi Arabia | <p align="center"> <img src="https://img.shields.io/badge/works-88E788" alt="works" /> </p> |
 
 ## Apps Built for Q25
 
 
 | App Name | Short Description | Author |
 |----------|-------------------|-------|
-| [Q25 Resolution Changer](https://github.com/mybabysexy/q25-res-changer) | Software for emulating resolutions on the Q25 $${\color{red}ROOT\space REQUIRED}$$| mybabysexy |
+| [Q25 Resolution Changer](https://github.com/mybabysexy/q25-res-changer) |  <p>Software for emulating resolutions on the Q25  <img src="https://img.shields.io/badge/Root%20Required-FF0000" alt="Root Required" /> </p>| mybabysexy |
 
 <!--
 ## Apps specifically tested to work with Q25
@@ -46,7 +46,7 @@ Consider joining the Q25 [Discord Server](https://discord.com/invite/D2P7UqFdXz)
 
 | App Name | Categoty | Notes |
 |----------|-------------------|-------|
-| [Google Wallet / Google Pay](https://play.google.com/store/apps/details?id=com.google.android.apps.walletnfcrel&hl=en) | Wallet | Strong Device Integrity needed [Guide](https://xdaforums.com/t/guide-how-to-pass-strong-integrity-on-android-step-by-step-guide.4729435/) $${\color{red}ROOT\space REQUIRED}$$|
+| [Google Wallet / Google Pay](https://play.google.com/store/apps/details?id=com.google.android.apps.walletnfcrel&hl=en) | Wallet | <p>Strong Device Integrity needed [Guide](https://xdaforums.com/t/guide-how-to-pass-strong-integrity-on-android-step-by-step-guide.4729435/)  <img src="https://img.shields.io/badge/Root%20Required-FF0000" alt="Root Required" /> </p>|
 | [Pixel Play](https://github.com/theovilardo/PixelPlay) | Music Player | Not Optimised for Resolution, Works but needs Scrolling |
 <!--| [App Name](https://example.com/app2) | Brief description of the app's purpose and key features, considering Q25 limitations. | Notes on specific limitations or workarounds for Q25 compatibility. | -->
 ## Apps Not Working with Q25
