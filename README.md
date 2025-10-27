@@ -17,6 +17,7 @@ Consider joining the Q25 [Discord Server](https://discord.com/invite/D2P7UqFdXz)
 | Name | Country | Notes |
 |----------|-------------------|-------|
 | [T-Mobile](https://www.t-mobile.com/) | USA | <p align="center"> <img src="https://img.shields.io/badge/works-88E788" alt="works" /> </p> |
+| [Verizon Mobile](https://www.verizon.com/) | USA | <p align="center"> <img src="https://img.shields.io/badge/works-88E788" alt="works" /> </p> |
 | [Mobily](https://www.mobily.com.sa) | Saudi Arabia | <p align="center"> <img src="https://img.shields.io/badge/works-88E788" alt="works" /> </p> |
 | [STC](https://www.stc.com.sa) | Saudi Arabia | <p align="center"> <img src="https://img.shields.io/badge/works-88E788" alt="works" /> </p> |
 | [Salam](https://dxp.salam.sa) | Saudi Arabia | <p align="center"> <img src="https://img.shields.io/badge/works-88E788" alt="works" /> </p> |
