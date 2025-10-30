@@ -28,6 +28,7 @@ Consider joining the Q25 [Discord Server](https://discord.com/invite/D2P7UqFdXz)
 | App Name | Short Description | Author |
 |----------|-------------------|-------|
 | [Q25 Resolution Changer](https://github.com/mybabysexy/q25-res-changer) |  <p>Software for emulating resolutions on the Q25  <img src="https://img.shields.io/badge/Root%20Required-FF0000" alt="Root Required" /> </p>| mybabysexy |
+| [Q25 Double Tap Wake Module](https://github.com/mybabysexy/q25-double-tap-wake-module) |  <p>Magisk module that enables double-tap-to-wake (DT2W)  <img src="https://img.shields.io/badge/Root%20Required-FF0000" alt="Root Required" /> </p>| mybabysexy |
 
 <!--
 ## Apps specifically tested to work with Q25
