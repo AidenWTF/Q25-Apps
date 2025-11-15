@@ -16,6 +16,9 @@ Consider joining the Q25 [Discord Server](https://discord.com/invite/D2P7UqFdXz)
 
 | Name | Country | Notes |
 |----------|-------------------|-------|
+| [Telekom](https://www.telekom.de) | Germany | <p align="center"> <img src="https://img.shields.io/badge/works-88E788" alt="works" /> </p> |
+| [Vodafone](https://www.vodafone.de/) | Germany | <p align="center"> <img src="https://img.shields.io/badge/works-88E788" alt="works" /> </p> |
+| [Telefonica](https://www.telefonica.de/) | Germany | <p align="center"> <img src="https://img.shields.io/badge/works-88E788" alt="works" /> </p> |
 | [T-Mobile](https://www.t-mobile.com/) | USA | <p align="center"> <img src="https://img.shields.io/badge/works-88E788" alt="works" /> </p> |
 | [Verizon Mobile](https://www.verizon.com/) | USA | <p align="center"> <img src="https://img.shields.io/badge/works-88E788" alt="works" /> </p> |
 | [Mobily](https://www.mobily.com.sa) | Saudi Arabia | <p align="center"> <img src="https://img.shields.io/badge/works-88E788" alt="works" /> </p> |
